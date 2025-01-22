@@ -1,4 +1,3 @@
-Âàäèì, [22.01.2025 18:11]
 #include <iostream>
 using namespace std;
 
@@ -8,7 +7,7 @@ int main() {
     int array[rows][cols];
 
     int num;
-    cout << "Ââåäèòå ÷èñëî: ";
+    cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã·Ã¨Ã±Ã«Ã®: ";
     cin >> num;
 
     for (int i = 0; i < rows; i++) {
@@ -31,7 +30,7 @@ int main() {
 
     return 0;
 }
-// 2 çàäàíèå 
+// 2 Ã§Ã Ã¤Ã Ã­Ã¨Ã¥ 
 #include <iostream>
 using namespace std;
 
@@ -41,7 +40,7 @@ int main() {
     int array[rows][cols];
 
     int num;
-    cout << "Ââåäèòå ÷èñëî: ";
+    cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã·Ã¨Ã±Ã«Ã®: ";
     cin >> num;
 
     for (int i = 0; i < rows; i++) {
